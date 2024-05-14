@@ -1,4 +1,4 @@
-name: QuIC Organization Repolinter
+name: Audioreach Repolinter
 
 on:
   push:
