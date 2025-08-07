@@ -1,4 +1,4 @@
-# Audioreach
+# AudioReach
 
 <p align=center>👋 Welcome to Audioreach!</p>
 
