@@ -1,6 +1,6 @@
-# Audioreach
+# AudioReach<sup>TM</sup>
 
-<p align=center>👋 Welcome to Audioreach!</p>
+<p align=center>👋 Welcome to AudioReach!</p>
 
 A complete end-to-end audio software solution, including both embedded and host pc software
 
